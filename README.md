@@ -1,4 +1,0 @@
-```
-$ whoami
-a2uria
-```
