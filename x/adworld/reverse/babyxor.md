@@ -4,8 +4,6 @@
 
 简单的异或加密壳，脱壳，patch 入口点偏移，移除 `.text` 段写权限。
 
-![image-20240702144949635](../../assets/image-20240702144949635.png)
-
 ```c
 int __cdecl main_0(int argc, const char **argv, const char **envp)
 {
